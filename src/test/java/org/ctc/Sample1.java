@@ -6,5 +6,9 @@ public class Sample1 {
 	System.out.println("INDIA");
 
 	}
+	private void china() {
+	System.out.println("CHINA");
+
+	}
 	
 }
